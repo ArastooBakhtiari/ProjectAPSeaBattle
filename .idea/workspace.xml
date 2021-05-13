@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d663ea3-ec45-4fcd-a0d9-6150a7724c74" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/config/DatabaseConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/config/DatabaseConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/database/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/database/Database.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gui/Dashboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gui/Dashboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gui/LoginMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gui/LoginMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gui/MainMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gui/MainMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gui/PauseMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gui/PauseMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gui/RegisterMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gui/RegisterMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gui/RegisteredMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gui/RegisteredMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gui/Settings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gui/Settings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/gui/SinglePlayer.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gui/SinglePlayer.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/gui/SinglePlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gui/SinglePlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/GuiUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/GuiUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
